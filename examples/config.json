@@ -1,6 +1,6 @@
 {
-    "apiKey": "apiKey",
-    "databaseURL": "https://url.firebaseio.com",
-    "projectId": "projectName",
-    "appId": "id"
+    "apiKey": "AIzaSyBQQQy8YBTAGSfFoS8eRFi8qUX5GudItGM",
+    "databaseURL": "https://ionic3-basic-app-default-rtdb.firebaseio.com",
+    "projectId": "ionic3-basic-app",
+    "appId": "1:50598830276:web:c201a90887fdc6912ee991"
 }
